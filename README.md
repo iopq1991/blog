@@ -1,3 +1,3 @@
 # blog
-JavaScript半知半解  https://www.kancloud.cn/dennis/tgjavascript/241800
-http://ghmagical.com/
+JavaScript半知半解  https://www.kancloud.cn/dennis/tgjavascript/241800 <br /> 
+http://ghmagical.com/<br /> 
